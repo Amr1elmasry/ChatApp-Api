@@ -1,1 +1,1 @@
-.Net Api App with SignalR For a Complete Chat Application 
+.Net 7 Api App with SignalR For a Complete Chat Application 
